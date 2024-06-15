@@ -83,17 +83,18 @@ Aplikasi Manajemen Musik Sederhana ini dibuat menggunakan Python. Aplikasi ini m
 
 ## Struktur Proyek
 
-music-management/
-    ├──  main .py #application file
-    ├── requirements.txt # Dependencies
-    ├── README.md # This file
-    ├── logo_2.png # Logo for the application
-    ├── Addsongs.png # Icon for Add Songs button
-    ├── album.png # Icon for View Songs button
-    ├── addplaylist.png # Icon for Create Playlist button
-    ├── Search.png # Icon for Search Songs button
-    ├── play.png # Icon for View Playlist button
-    └── .gitignore # Git ignore file
+music_management/
+├── Addsongs.png
+├── album.png
+├── addplaylist.png
+├── Search.png
+├── play.png
+├── logo_2.png
+├── list_icon.png
+├── musicmanagement.sql
+├── main.py
+└── README.md
+
 
 
 ## License
