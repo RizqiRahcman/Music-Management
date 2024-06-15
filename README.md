@@ -81,21 +81,6 @@ Aplikasi Manajemen Musik Sederhana ini dibuat menggunakan Python. Aplikasi ini m
     - Lihat Playlist
     - Tambah Lagu ke Playlist
 
-## Struktur Proyek
-
-music_management/
-├── Addsongs.png
-├── album.png
-├── addplaylist.png
-├── Search.png
-├── play.png
-├── logo_2.png
-├── list_icon.png
-├── musicmanagement.sql
-├── main.py
-└── README.md
-
-
 
 ## License
 
